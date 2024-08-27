@@ -1,0 +1,6 @@
+Add the dependencies required for the project:
+
+```bash
+Django>=4.0,<5.0
+djangorestframework>=3.12
+
