@@ -23,8 +23,8 @@ This project is a RESTful API built with Django and Django REST Framework. It pr
 
 ## Requirements
 - Python 3.8+
-- Django 3.2+
-- Django REST Framework
+- Django >=4.0,<5.0
+- Django REST Framework >=3.12
 
 ## Installation
 1. Clone the repository:
@@ -94,3 +94,4 @@ python manage.py test
     python manage.py migrate
     ```
 5. Start the application using your WSGI server.
+
